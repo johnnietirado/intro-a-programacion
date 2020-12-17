@@ -25,3 +25,20 @@ Ejemplo, si queremos correr el código en la carpeta `09-genericos` escribimos
 run="csc ./09-genericos/main.cs -out:./09-genericos/main.exe  && mono ./09-genericos/main.exe"
 ```
 Si tienes alguna duda escribir a través de [Instagram](https://instagram.com/codealo) o enviame un correo a johnnie@codealo.dev
+
+## Temas
+
+Cada video tiene una carpeta asociada a ella, allí puedes ver los temas para cada clase, pero aquí te los pongo en una lista.
+
+1. Variables
+2. Condiciones y condicionales
+3. Loops (Bucles)
+4. Arrays
+5. Funciones (o Metodos)
+6. Recursión
+7. Objectos y Programación orientada a Objectos
+8. Algoritmos básicos
+9. Genéricos
+10. Implementando Listas Enlazadas
+
+Con estos temas vas a conocer los fundamentos de programación que te van a permitir crear tus propios programas que solucionen problemas.
