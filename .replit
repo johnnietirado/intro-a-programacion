@@ -1,2 +1,2 @@
 language = "csharp"
-run="csc ./01-intro-variables/main.cs -out:./01-intro-variables/main.exe  && mono ./01-intro-variables/main.exe"
+run="csc ./02-condicionales/main.cs -out:./02-condicionales/main.exe  && mono ./02-condicionales/main.exe"
